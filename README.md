@@ -1,11 +1,14 @@
-# SignLang
-## Sign Langugage recognition for differently abled people .
-<hr>
+# SignLang- Sign Langugage recognition for differently abled people .
+
 
 This python project is basically about recognizing sign languages in real time using CNN.Inputs are taken from webcam and recognized by neural network system which then  gives
  text output by using gestures.
  
-![DEMO1](https://user-images.githubusercontent.com/64901722/147873462-e7986fb0-1943-47c8-81c0-cffc42b3a51c.JPG)
+ ## Project DEMO:
+ 
+![DEMO1](https://user-images.githubusercontent.com/64901722/147873760-e4ed55f4-9d73-4dec-88d3-6944c979cdfc.JPG)
+
+
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64901722/147871714-a5cbaea4-9c1e-4704-9c89-68feaa2f0ecf.gif)
