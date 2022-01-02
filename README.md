@@ -5,8 +5,8 @@ This python project is basically about recognizing sign languages in real time u
  text output by using gestures.
  
  ## Project DEMO:
- 
-![DEMO1](https://user-images.githubusercontent.com/64901722/147873760-e4ed55f4-9d73-4dec-88d3-6944c979cdfc.JPG)
+
+![DEMO1](https://user-images.githubusercontent.com/64901722/147873845-ed4273e6-6f27-4498-b75e-43e343eb5ab2.JPG)
 
 
 
